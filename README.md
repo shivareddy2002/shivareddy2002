@@ -84,19 +84,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" alt="GitHub Stats" height="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" alt="Top Languages" height="300"/>
 </p>
-
----
-
-## 🐍 Contribution Graph Snake  
-
-![snake gif](https://github.com/shivareddy2002/shivareddy2002/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
