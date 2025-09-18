@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=250&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • Machine Learning</h3>
@@ -18,54 +18,66 @@
 ## 🔭 About Me
 - 🌱 Passionate about **Data Science, Machine Learning, and Analytics**  
 - 💡 Love solving real-world problems with data  
-- 📊 Experienced in **building ML models & interactive dashboards**  
+- 📊 Experienced in **building ML models, dashboards & analytics pipelines**  
 - 🔎 Currently focusing on **Python, Deep Learning, SQL, and BI Tools**  
+- 🧩 Solved **50+ coding challenges on LeetCode & GeeksforGeeks**  
 
 ---
 
-## 🛠️ Tech & Tools  
+## 🛠️ Skills  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Programming:** Python, SQL, Java, C, R, HTML, CSS  
+**Data Science & AI:** Machine Learning, Deep Learning, Data Analytics, Data Visualization  
+**Tools:** Power BI, Excel, MySQL, Jupyter Notebook, VS Code  
+**Libraries & Frameworks:** Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn  
+**Soft Skills:** Teamwork, Problem Solving, Communication, Quick Learning, Time Management  
 
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🌱 [Classification & Forecasting of Water Stress in Tomato Plants](https://github.com/shivareddy2002/Plant-Stress-Forecasting)  
-- CNN + LSTM + Random Forest on **bioristor IoT sensor data**  
-- Predicts **water stress** to promote smart irrigation & water conservation  
-- 📈 Achieved strong accuracy on real-world agricultural datasets  
+- Developed **CNN + LSTM + Decision Tree + Random Forest models** on **bioristor IoT sensor data**  
+- Predicted **plant water stress levels** to enable smart irrigation & water conservation  
+- Tools: **Python, TensorFlow, Scikit-learn, Pandas, Matplotlib**  
+- 📑 Published in *Periodico di Mineralogia* (DOI: [10.5281/zenodo.15047038](https://doi.org/10.5281/zenodo.15047038))  
+
+---
+
+### 📊 [Zomato Data Analysis Using Python](https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python)  
+- Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
+- Built **visualizations** for customer preferences and restaurant performance evaluation  
+- Tools: **Python, Pandas, NumPy, Matplotlib, Seaborn**  
+- 📈 Provided actionable insights into **customer dining trends**  
 
 ---
 
 ### 😃 [Text Emotion Classification](https://github.com/shivareddy2002/Text-Emotion-Classification)  
-- NLP + Deep Learning with **Keras**  
-- Tokenization → One-hot encoding → Neural network training  
-- 🚀 Useful for **chatbots & sentiment analysis**  
+- Designed a **neural network with Keras** for sentiment analysis  
+- Preprocessing: Tokenization, One-hot encoding of labels  
+- Achieved **95% accuracy** in predicting emotions from text  
+- Tools: **Python, Keras, TensorFlow**  
 
 ---
 
 ### 🤖 [Word Search Chatbot (Wikipedia API)](https://github.com/shivareddy2002/Word-Search-Chatbot)  
-- Interactive chatbot using **Wikipedia API**  
-- Supports real-time Q&A & education assistance  
+- Built an **interactive chatbot** to retrieve real-time information from Wikipedia  
+- Integrated **Wikipedia API** for knowledge extraction  
+- Tools: **HTML, CSS, JavaScript, API integration**  
+- 📚 Useful for **educational assistance & quick knowledge queries**  
 
 ---
 
 ### 🎮 [Number Guessing Game](https://github.com/shivareddy2002/Number-Guessing-Game)  
-- Fun CLI Python game 🎲  
-- Includes hints, scoring, and replayability  
-- Beginner-friendly project showcasing **logic building**  
+- Fun **Python CLI game** with scoring, hints, and replayability  
+- Showcases **logic building & beginner-level programming concepts**  
+
+---
+
+## 📑 Publications  
+
+- [Enhanced CNN-Based Classification and Forecasting of Water Stress in Tomato Plant Utilizing Bioristor Data](https://doi.org/10.5281/zenodo.15047038)  
+  *Periodico di Mineralogia, Vol. 94, Issue 2 (2025)*  
 
 ---
 
@@ -76,27 +88,35 @@
 - SQL — **Programming Hub**  
 - Big Data & Hadoop — **edX**  
 - Data Science Guided Path — **Coding Ninjas**  
-- Certificate of Merit — **Naukri Campus Young Turks (93.91 percentile)**  
-- HackerRank: **Python, Java, SQL (5⭐ each)**  
+
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" alt="GitHub Stats" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" alt="Top Languages" height="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="400"/>
 </p>
 
 ---
 
 ## 🏅 Achievements & Extras  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shivareddy2002&theme=radical&margin-w=15)  
-![Profile Views](https://komarev.com/ghpvc/?username=shivareddy2002&color=blue&style=flat-square)
+- 🏆 **Certificate of Merit** — Naukri Campus Young Turks (Top **93.91 percentile**)  
+- 🎯 **HackerRank**: Python, Java, SQL (**5⭐ each**)  
+- 💻 **Solved 50+ coding problems** on LeetCode & GeeksforGeeks  
+- 📚 Published research paper in an **international journal (2025)**  
+
+
+<p align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=shivareddy2002&theme=radical&margin-w=15&row=2&column=3)  
+  ![snake gif](https://github.com/shivareddy2002/shivareddy2002/blob/output/github-contribution-grid-snake.svg)  
+</p>
 
 ---
 
@@ -114,6 +134,9 @@
   </a>
   <a href="https://www.kaggle.com/lomadasivagangireddy">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="YOUR_RESUME_DRIVE_LINK">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
