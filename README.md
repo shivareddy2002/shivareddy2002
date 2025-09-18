@@ -4,7 +4,7 @@
 
 </p>
 
-<h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • Machine Learning</h3>
+<h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • Machine Learning • Deep Learning</h3>
 
 ---
 
