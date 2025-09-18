@@ -75,7 +75,7 @@ CNN + LSTM + Decision Trees + Random Forest on **bioristor sensor data** to pred
 - Promotes **water conservation** in agriculture  
 
 📷 Example Image (replace this with your own project screenshot):  
-![Plant Stress Forecasting](https://upload.wikimedia.org/wikipedia/commons/6/6e/Tomato_plant.JPG)
+![Plant Stress Forecasting]([https://upload.wikimedia.org/wikipedia/commons/6/6e/Tomato_plant.JPG](https://www.plantbit.it/wp-content/uploads/2023/04/Tavola-disegno-1-copia.png))
 
 ---
 
