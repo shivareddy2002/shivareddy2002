@@ -95,13 +95,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="300"/>
-=======
+
   <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="350"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="350"/>
->>>>>>> d4f664c1c87106868538b61830c4887d2904c8bf
 </p>
 ---
 
@@ -116,15 +114,12 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-<<<<<<< HEAD
   <a href="https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
-=======
     <a href="https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link" />
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
->>>>>>> d4f664c1c87106868538b61830c4887d2904c8bf
   <a href="mailto:lomadasivagangireddy3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
