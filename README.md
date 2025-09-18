@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • Machine Learning</h3>
 
 <!--
 ## Hi there 👋
@@ -143,7 +148,7 @@ Fun **Python CLI game** with scoring system.
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  
 - [Email](mailto:lomadasivagangireddy3@gmail.com)  
-- [Resume]([./Resume.pdf](https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=sharing)) *(uploaded in repo)*  
+- [Resume]([./Resume.pdf](https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=sharing)) 
 
 ---
 
@@ -167,10 +172,10 @@ Fun **Python CLI game** with scoring system.
   <a href="https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/">
+  <a href="[https://leetcode.com/](https://leetcode.com/u/shivareddy2002/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.kaggle.com/">
+  <a href="[https://www.kaggle.com/](https://www.kaggle.com/lomadasivagangireddy)">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
