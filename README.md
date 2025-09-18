@@ -95,14 +95,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="350"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="400"/>
-</p>
-
 ---
 
 ## 🏅 Achievements & Extras  
@@ -111,18 +106,14 @@
 - 🎯 **HackerRank**: Python, Java, SQL (**5⭐ each**)  
 - 💻 **Solved 50+ coding problems** on LeetCode & GeeksforGeeks  
 - 📚 Published research paper in an **international journal (2025)**  
-
-
-<p align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=shivareddy2002&theme=radical&margin-w=15&row=2&column=3)  
-  ![snake gif](https://github.com/shivareddy2002/shivareddy2002/blob/output/github-contribution-grid-snake.svg)  
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
 
 <p align="center">
+    <a href="https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
   <a href="mailto:lomadasivagangireddy3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -135,9 +126,7 @@
   <a href="https://www.kaggle.com/lomadasivagangireddy">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="YOUR_RESUME_DRIVE_LINK">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
+
 </p>
 
 ---
