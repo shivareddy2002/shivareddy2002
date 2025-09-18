@@ -12,15 +12,15 @@
 
 🎓 **B.Tech in Computer Science & Engineering (Data Science)**, RGMCET (2021–2025) | CGPA: 8.3  
 📊 Aspiring **Data Scientist / Data Analyst** | Skilled in **Python • SQL • Power BI • Excel • ML • DL**  
-🌍 Based in **Nandyal** — Open to opportunities in **Hyderabad, Bengaluru, Chennai, Pune**  
+🌍 Based in **Andhra Pradesh** — Open to opportunities in **Hyderabad, Bengaluru, Chennai, Pune**  
 
 ---
 
 ## 🔭 About Me
 - 🌱 Passionate about **Data Science, Machine Learning, and Analytics**  
 - 💡 Love solving real-world problems with data  
-- 📊 Experienced in **building ML models, dashboards & analytics pipelines**  
-- 🔎 Currently focusing on **Python, Deep Learning, SQL, and BI Tools**  
+- 📊 Experienced in **building ML & DL models, dashboards & analytics pipelines**  
+- 🔎 Currently focusing on **Python,Machine Learning, Deep Learning, SQL, and BI Tools**  
 - 🧩 Solved **50+ coding challenges on LeetCode & GeeksforGeeks**  
 
 ---
