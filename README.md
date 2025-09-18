@@ -149,3 +149,65 @@ Fun **Python CLI game** with scoring system.
 
 ✨ Thanks for visiting my profile! ✨  
 💡 I’m open to **Data Analyst / Data Science internships & roles** and **collaborations**.
+<!-- Profile Header -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • Machine Learning</h3>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:lomadasivagangireddy3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌱 [Classification & Forecasting of Water Stress in Tomato Plants](https://github.com/shivareddy2002/Plant-Stress-Forecasting)
+- Built using **CNN + LSTM + Decision Trees + Random Forest** on bioristor sensor data  
+- Predicts water stress in tomato plants to enable **smart irrigation & sustainable agriculture**  
+
+#### 😃 [Text Emotion Classification](https://github.com/shivareddy2002/Text-Emotion)
+- Machine learning model using **Keras** to classify emotions in text  
+- Preprocessing: tokenization, one-hot encoding, neural network training  
+- Helps in **sentiment analysis & human–AI interaction systems**  
+
+#### 🎮 [Number Guessing Game](https://github.com/shivareddy2002/Number-Guessing-Game)
+- Interactive **Python game** to guess a randomly generated number  
+- Includes **hints, scoring system, and replayability**  
+- Fun project showcasing **logic building in Python**  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=100&section=footer" />
+</p>
+
