@@ -1,6 +1,7 @@
-## Hi there 👋
 
 <!--
+## Hi there 👋
+
 **shivareddy2002/shivareddy2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,10 +31,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Lomada Siva Gangi Reddy (Shiva Reddy)
+# 👋 Hi, I'm Lomada Siva Gangi Reddy 
 
 🎓 B.Tech in Computer Science & Engineering (Data Science), RGMCET (2021–2025) | CGPA: 8.3  
-📊 Aspiring **Data Analyst** | Skilled in **Python | SQL | Power BI | Excel | ML | DL**  
+📊 Aspiring **Data Scientist** | Skilled in **Python | SQL | Power BI | Excel | ML | DL**  
 🌍 Based in Nandyal — Open to opportunities in **Hyderabad**,  **Bengaluru**,**Chennai**,**Pune**
 
 ---
@@ -142,7 +143,7 @@ Fun **Python CLI game** with scoring system.
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  
 - [Email](mailto:lomadasivagangireddy3@gmail.com)  
-- [Resume](./Resume.pdf) *(uploaded in repo)*  
+- [Resume]([./Resume.pdf](https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=sharing)) *(uploaded in repo)*  
 
 ---
 
