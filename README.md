@@ -97,6 +97,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="165"/>
 </p>
 
 ## 🏅 Achievements & Extras  
@@ -129,6 +130,11 @@
 </p>
 
 ---
+## 📝 Footer
+<p align="center">
+Thank you for visiting my GitHub! 🌟  
+Check out my projects, connect with me, and let's collaborate! 🤝
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,150:2575FC&height=150&section=footer" />
