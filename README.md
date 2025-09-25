@@ -4,7 +4,7 @@
 
 </p>
 
-<h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • Machine Learning • Deep Learning</h3>
+<h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • ML • DL | Open to Jobs & Internships</h3>
 
 ---
 
@@ -17,11 +17,11 @@
 ---
 
 ## 🔭 About Me
-- 🌱 Passionate about **Data Science, Machine Learning, and Analytics**  
-- 💡 Love solving real-world problems with data  
-- 📊 Experienced in **building ML & DL models, dashboards & analytics pipelines**  
-- 🔎 Currently focusing on **Python,Machine Learning, Deep Learning, SQL, and BI Tools**  
-- 🧩 Solved **50+ coding challenges on LeetCode & GeeksforGeeks**  
+- 🌱 **Passionate** about Data Science, Machine Learning & Analytics  
+- 💡 **Problem-solving** with real-world data  
+- 📊 Experienced in **ML & DL models, dashboards, and analytics pipelines**  
+- 🔎 Currently focusing on **Python, Machine Learning, Deep Learning, SQL, BI Tools**  
+- 🧩 Solved **50+ coding challenges** on LeetCode & GeeksforGeeks  
 
 ---
 
