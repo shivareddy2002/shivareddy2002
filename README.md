@@ -42,6 +42,8 @@
 - Predicted **plant water stress levels** to enable smart irrigation & water conservation  
 - Tools: **Python, TensorFlow, Scikit-learn, Pandas, Matplotlib**  
 - 📑 Published in *Periodico di Mineralogia* (DOI: [10.5281/zenodo.15047038](https://doi.org/10.5281/zenodo.15047038))  
+- 🎬 Demo GIF:  
+![Tomato Plant Stress Demo](https://raw.githubusercontent.com/shivareddy2002/Plant-Stress-Forecasting/main/galary/demo.gif)
 
 ---
 
@@ -130,12 +132,12 @@
 </p>
 
 ---
-## 📝 Footer
+
 <p align="center">
 Thank you for visiting my GitHub! 🌟  
 Check out my projects, connect with me, and let's collaborate! 🤝
 </p>
-
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,150:2575FC&height=150&section=footer" />
 </p>
