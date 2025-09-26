@@ -59,7 +59,7 @@
 - 
 ---
 
-### 🤖 [Word Search Chatbot (Wikipedia API)](https://github.com/shivareddy2002/Word-Search-Chatbot)  
+### 🤖 [Word Search Chatbot (Wikipedia API)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-)
 - Built an **interactive chatbot** to retrieve real-time information from Wikipedia  
 - Integrated **Wikipedia API** for knowledge extraction  
 - Tools: **HTML, CSS, JavaScript, API integration**  
