@@ -10,6 +10,7 @@
 
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy  
 🚀 I’m a data science enthusiast passionate about solving real-world problems with AI/ML. With hands-on experience in Python, ML, DL, SQL, and BI tools, I aim to transform data into actionable insights for businesses.
+
 🎓 **B.Tech in Computer Science & Engineering (Data Science)**, RGMCET (2021–2025) | CGPA: 8.3  
 📊 Aspiring **Data Scientist / Data Analyst** | Skilled in **Python • SQL • Power BI • Excel • ML • DL**  
 🌍 Based in **Andhra Pradesh** — Open to opportunities in **Hyderabad, Bengaluru, Chennai, Pune**  
