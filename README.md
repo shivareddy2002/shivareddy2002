@@ -128,7 +128,6 @@
 
 </p>
 
----
 <p align="center">🚀 Open to collaborations in Data Science, AI & ML Projects!</p>
 <p align="center">
 Thank you for visiting my GitHub! 🌟  
