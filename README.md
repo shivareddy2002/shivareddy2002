@@ -9,7 +9,7 @@
 ---
 
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy  
-
+🚀 I’m a data science enthusiast passionate about solving real-world problems with AI/ML. With hands-on experience in Python, ML, DL, SQL, and BI tools, I aim to transform data into actionable insights for businesses.
 🎓 **B.Tech in Computer Science & Engineering (Data Science)**, RGMCET (2021–2025) | CGPA: 8.3  
 📊 Aspiring **Data Scientist / Data Analyst** | Skilled in **Python • SQL • Power BI • Excel • ML • DL**  
 🌍 Based in **Andhra Pradesh** — Open to opportunities in **Hyderabad, Bengaluru, Chennai, Pune**  
@@ -27,11 +27,45 @@
 
 ## 🛠️ Skills  
 
-**Programming:** Python, SQL, Java, C, R, HTML, CSS  
-**Data Science & AI:** Machine Learning, Deep Learning, Data Analytics, Data Visualization  
-**Tools:** Power BI, Excel, MySQL, Jupyter Notebook, VS Code  
-**Libraries & Frameworks:** Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn  
-**Soft Skills:** Teamwork, Problem Solving, Communication, Quick Learning, Time Management  
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
+
+**Data Science & AI:**  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?logo=scikitlearn&logoColor=F7931E)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)  
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0E76A8?logo=powerbi&logoColor=yellow)  
+![Data Visualization](https://img.shields.io/badge/Data%20Viz-FF6384?logo=plotly&logoColor=white)  
+
+**Libraries & Frameworks:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-2E7D32?logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
+
+**Tools:**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+
+---
+
+**Programming :** Python, SQL, Java, C, R, HTML, CSS  
+**Data Science & AI :** Machine Learning, Deep Learning, Data Analytics, Data Visualization  
+**Tools :** Power BI, Excel, MySQL, Jupyter Notebook, VS Code  
+**Libraries & Frameworks :** Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn  
+**Soft Skills :** Teamwork, Problem Solving, Communication, Quick Learning, Time Management  
 
 ---
 
@@ -77,7 +111,7 @@
 
 ## 📑 Publications  
 
-- [Enhanced CNN-Based Classification and Forecasting of Water Stress in Tomato Plant Utilizing Bioristor Data](https://doi.org/10.5281/zenodo.15047038)  
+- ⭐ [Enhanced CNN-Based Classification and Forecasting of Water Stress in Tomato Plant Utilizing Bioristor Data](https://doi.org/10.5281/zenodo.15047038)  
   *Periodico di Mineralogia, Vol. 94, Issue 2 (2025)*  
 
 ---
@@ -97,6 +131,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="165"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="165"/>
+
 </p>
 
 ## 🏅 Achievements & Extras  
@@ -129,7 +165,7 @@
 </p>
 
 ---
-
+<p align="center">🚀 Open to collaborations in Data Science, AI & ML Projects!</p>
 <p align="center">
 Thank you for visiting my GitHub! 🌟  
 Check out my projects, connect with me, and let's collaborate! 🤝
