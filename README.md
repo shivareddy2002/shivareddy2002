@@ -37,7 +37,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🌱 [Classification & Forecasting of Water Stress in Tomato Plants]([https://github.com/shivareddy2002/Plant-Stress-Forecasting](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant))  
+### 🌱 [Classification & Forecasting of Water Stress in Tomato Plants](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant)  
 - Developed **CNN + LSTM + Decision Tree + Random Forest models** on **bioristor IoT sensor data**  
 - Predicted **plant water stress levels** to enable smart irrigation & water conservation  
 - Tools: **Python, TensorFlow, Scikit-learn, Pandas, Matplotlib**  
