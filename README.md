@@ -1,3 +1,15 @@
+<p align="center">
+
+| 🚀 Project | 📝 Description | 🛠 Tech Stack | 🔗 Links |
+|-----------|---------------|-------------|----------|
+| 🌱 [Water Stress Classification](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant) | Predicted water stress using CNN+LSTM+ML on IoT data | Python, TensorFlow, Sklearn | [🌐 Demo](https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/) |
+| 🌾 [Rice Type Classifier](https://github.com/shivareddy2002/Rice-Grain-Classifier) | Classified rice varieties with CNN and Streamlit app | Python, Keras, Streamlit | [🌐 Demo](https://rice-grain-classifier-project.streamlit.app/) |
+| 📝 [Text Generation - GRU](https://github.com/shivareddy2002/GRU-Text-Generation) | GRU-based RNN for sequence generation with beam search | Python, TensorFlow, Streamlit | [🌐 Demo](https://text-generation-using-gru-model.streamlit.app/) |
+| 🤖 [Word Search Chatbot](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-) | Interactive chatbot using Wikipedia API | HTML, CSS, JS, API | [🌐 Demo](https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/) |
+| 📊 [Zomato Data Analysis](https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python) | Data analysis & visualizations for restaurant insights | Python, Pandas, Seaborn | [🌐 Demo](https://zomato-data-analysis-dashboard.streamlit.app/) |
+
+</p>
+
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
