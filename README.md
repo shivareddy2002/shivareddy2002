@@ -2,7 +2,20 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+---
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=800&lines=📊+Transforming+Data+into+Insights+|+Data+Science+Enthusiast;👨‍💻+Python+•+SQL+•+ML+•+DL+•+Power+BI;🚀+Open+to+Jobs+and+Internships;🌱+Always+Learning+New+Things!" />
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+---
 <h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • ML • DL | Open to Jobs & Internships</h3>
 
 ---
@@ -32,6 +45,9 @@
 **Libraries & Frameworks :** Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn  
 **Soft Skills :** Teamwork, Problem Solving, Communication, Quick Learning, Time Management  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,html,css,java,r,mysql,vscode,pandas,numpy,matplotlib,powerbi,excel" />
+</p>
 ---
 
 ## 🚀 Featured Projects  
@@ -112,25 +128,44 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
+ 
+---
+## 🚀 Featured Projects
 
-## 👀 Profile Analytics
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshivareddy2002&count_bg=%237B1E7F&title_bg=%2300AEEF&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="profile views" />
-</p>
-
-<p align="center">
-  <!-- Stable visitor counter -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/shivareddy2002&count_bg=%237B1E7F&title_bg=%2300AEEF&icon=&unit=people" alt="profile hits" />
-
-  <!-- Professional backup badges -->
-  <br/>
-  <img src="https://img.shields.io/github/followers/shivareddy2002?label=Followers&style=for-the-badge" alt="followers" />
-  <img src="https://img.shields.io/github/stars/shivareddy2002?label=Stars&style=for-the-badge" alt="stars" />
-</p>
-
+| 🧪 Project | 📝 Description | 🛠 Tech Stack | 🔗 Links |
+|-----------|---------------|-------------|----------|
+| 🌱 **[Water Stress Classification](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant)** | Predicted plant water stress using CNN + LSTM + ML models on bioristor IoT data | Python, TensorFlow, Sklearn, Pandas | [🔗 Paper](https://doi.org/10.5281/zenodo.15047038) |
+| 🌾 **[Rice Grain Classifier](https://github.com/shivareddy2002/Rice-Grain-Classifier)** | Classified rice varieties using CNN + Streamlit | Python, Keras, Streamlit | [🌐 App](https://rice-grain-classifier-project.streamlit.app/) |
+| 📝 **[Text Generation (GRU)](https://github.com/shivareddy2002/GRU-Text-Generation)** | Generated sequences using GRU RNN with beam search | Python, TensorFlow, Streamlit | Demo inside repo |
+| 🤖 **[Word Search Chatbot](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-)** | Interactive chatbot powered by Wikipedia API | HTML, CSS, JS, API | Try in repo |
+| 📊 **[Zomato Data Analysis](https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python)** | Performed data analysis & visualizations on restaurant data | Python, Pandas, Matplotlib | Repo link above |
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivareddy2002&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivareddy2002&theme=react-dark&area=true" />
+</p>
+
+<!-- Snake animation (fun touch) -->
+<p align="center">
+  <img src="https://github.com/shivareddy2002/shivareddy2002/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+---
 ## 🌐 Connect with Me  
 
 <p align="center">
