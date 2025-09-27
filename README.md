@@ -2,15 +2,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=800&lines=📊+Transforming+Data+into+Insights+|+Data+Science+Enthusiast;👨‍💻+Python+•+SQL+•+ML+•+DL+•+Power+BI;🚀+Open+to+Jobs+and+Internships!" />
 </h3>
 
 ---
-
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy  
-
 - 🎓 B.Tech in **Computer Science & Engineering (Data Science)** — RGMCET (2021–2025) | CGPA: **8.3**  
 - 📈 Aspiring **Data Scientist / Data Analyst** passionate about **AI, ML, and Data Analytics**  
 - 💼 Skilled in **Python, SQL, Power BI, Excel, ML, DL, Visualization**  
@@ -18,7 +15,6 @@
 - 🌱 Currently exploring **Advanced Deep Learning & End-to-End ML Pipelines**
 
 ---
-
 ## 🛠️ Skills  
 
 **Programming :** Python, SQL, Java, C, R, HTML, CSS  
