@@ -112,9 +112,18 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
- <img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=YOUR_TRACKING_ID&cid=555&dp=/github-profile" width="100" height="100" />
- <img src="https://visitcount.itsvg.in/api?id=shivareddy2002&label=Profile%20Views&color=blue&icon=5&pretty=true" />
+
 </p>
+## 👀 Profile Analytics
+
+<p align="center">
+  <!-- Visit Counter -->
+  <img src="https://visitcount.itsvg.in/api?id=shivareddy2002&label=Profile%20Views&color=0&icon=5" />
+  
+  <!-- Google Analytics Tracking Pixel (replace G-XXXXXXX with your real ID) -->
+  <img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=G-XXXXXXX&cid=555&dp=/github-profile" width="0" height="0" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me  
