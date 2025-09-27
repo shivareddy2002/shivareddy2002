@@ -76,27 +76,44 @@
 
 <p align="center">
 
-### 🚀 Featured Projects
-
-- 🌱 <b><a href="https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant">Water Stress Prediction</a></b>  
-  Predicted water stress using CNN+LSTM+ML on IoT data  
-  🛠 Python, TensorFlow, Sklearn | 🔗 <a href="https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/">Demo</a>
-
-- 🌾 <b><a href="https://github.com/shivareddy2002/Rice-Grain-Classifier">Rice Type Classifier</a></b>  
-  Classified rice varieties with CNN and Streamlit app  
-  🛠 Python, Keras, Streamlit | 🔗 <a href="https://rice-grain-classifier-project.streamlit.app/">Demo</a>
-
-- 📝 <b><a href="https://github.com/shivareddy2002/GRU-Text-Generation">Text Generation</a></b>  
-  GRU-based RNN for sequence generation with beam search  
-  🛠 Python, TensorFlow, Streamlit | 🔗 <a href="https://text-generation-using-gru-model.streamlit.app/">Demo</a>
-
-- 🤖 <b><a href="https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-">Word Search Chatbot</a></b>  
-  Interactive chatbot using Wikipedia API  
-  🛠 HTML, CSS, JS, API | 🔗 <a href="https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/">Demo</a>
-
-- 📊 <b><a href="https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python">Zomato Data Analysis</a></b>  
-  Data analysis & visualizations for restaurant insights  
-  🛠 Python, Pandas, Seaborn | 🔗 <a href="https://zomato-data-analysis-dashboard.streamlit.app/">Demo</a>
+<table>
+  <tr>
+    <th>🚀 Project</th>
+    <th>📝 Description</th>
+    <th>🛠 Tech Stack</th>
+    <th>🔗 Links</th>
+  </tr>
+  <tr>
+    <td>🌱 <a href="https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant">Water Stress Prediction</a></td>
+    <td>Predicted water stress using CNN+LSTM+ML on IoT data</td>
+    <td>Python, TensorFlow, Sklearn</td>
+    <td><a href="https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/">Demo</a></td>
+  </tr>
+  <tr>
+    <td>🌾 <a href="https://github.com/shivareddy2002/Rice-Grain-Classifier">Rice Type Classifier</a></td>
+    <td>Classified rice varieties with CNN and Streamlit app</td>
+    <td>Python, Keras, Streamlit</td>
+    <td><a href="https://rice-grain-classifier-project.streamlit.app/">Demo</a></td>
+  </tr>
+  <tr>
+    <td>📝 <a href="https://github.com/shivareddy2002/GRU-Text-Generation">Text Generation</a></td>
+    <td>GRU-based RNN for sequence generation with beam search</td>
+    <td>Python, TensorFlow, Streamlit</td>
+    <td><a href="https://text-generation-using-gru-model.streamlit.app/">Demo</a></td>
+  </tr>
+  <tr>
+    <td>🤖 <a href="https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-">Word Search Chatbot</a></td>
+    <td>Interactive chatbot using Wikipedia API</td>
+    <td>HTML, CSS, JS, API</td>
+    <td><a href="https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/">Demo</a></td>
+  </tr>
+  <tr>
+    <td>📊 <a href="https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python">Zomato Data Analysis</a></td>
+    <td>Data analysis & visualizations for restaurant insights</td>
+    <td>Python, Pandas, Seaborn</td>
+    <td><a href="https://zomato-data-analysis-dashboard.streamlit.app/">Demo</a></td>
+  </tr>
+</table>
 
 </p>
 
