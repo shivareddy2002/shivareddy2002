@@ -1,39 +1,21 @@
-<!-- Profile Header -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
----
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=800&lines=📊+Transforming+Data+into+Insights+|+Data+Science+Enthusiast;👨‍💻+Python+•+SQL+•+ML+•+DL+•+Power+BI;🚀+Open+to+Jobs+and+Internships;🌱+Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=800&lines=📊+Transforming+Data+into+Insights+|+Data+Science+Enthusiast;👨‍💻+Python+•+SQL+•+ML+•+DL+•+Power+BI;🚀+Open+to+Jobs+and+Internships!" />
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
----
-<h3 align="center">📊 Transforming Data into Insights | Python • SQL • Power BI • ML • DL | Open to Jobs & Internships</h3>
 
 ---
 
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy  
-- 🚀 Data Science enthusiast passionate about solving real-world problems with AI/ML.  
-- 🎓 **B.Tech in Computer Science & Engineering (Data Science)**, RGMCET (2021–2025) | CGPA: 8.3  
-- 📊 Aspiring **Data Scientist / Data Analyst** | Skilled in **Python • SQL • Power BI • Excel • ML • DL**  
-- 🌍 Based in **Andhra Pradesh** — Open to opportunities in **Hyderabad, Bengaluru, Chennai, Pune**  
 
----
-
-## 🔭 About Me
-- 🌱 Passionate about Data Science, Machine Learning & Analytics  
-- 💡 Problem-solving with real-world data  
-- 📊 Experienced in ML & DL models, dashboards, and analytics pipelines  
-- 🔎 Currently focusing on Python, Machine Learning, Deep Learning, SQL, BI Tools  
-- 🧩 Solved **50+ coding challenges** on LeetCode & GeeksforGeeks  
+- 🎓 B.Tech in **Computer Science & Engineering (Data Science)** — RGMCET (2021–2025) | CGPA: **8.3**  
+- 📈 Aspiring **Data Scientist / Data Analyst** passionate about **AI, ML, and Data Analytics**  
+- 💼 Skilled in **Python, SQL, Power BI, Excel, ML, DL, Visualization**  
+- 📍 Based in **Andhra Pradesh**, open to opportunities in **Hyderabad, Bengaluru, Chennai, Pune**  
+- 🌱 Currently exploring **Advanced Deep Learning & End-to-End ML Pipelines**
 
 ---
 
@@ -45,11 +27,16 @@
 **Libraries & Frameworks :** Numpy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Scikit-learn  
 **Soft Skills :** Teamwork, Problem Solving, Communication, Quick Learning, Time Management  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git,github,html,css,java,r,mysql,vscode,pandas,numpy,matplotlib,powerbi,excel" />
-</p>
 ---
 
+## 📌 Current Focus & Learning
+
+- 🚀 Building **AI/ML projects** with clean MLOps-style structure  
+- 🌐 Deploying ML models with **Streamlit / FastAPI**  
+- 🧠 Diving deeper into **Deep Learning**, **Computer Vision**, and **NLP**  
+- 📚 Practicing DSA & SQL on LeetCode / GFG regularly  
+
+---
 ## 🚀 Featured Projects  
 
 ### 🌱 [Classification & Forecasting of Water Stress in Tomato Plants](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant)  
@@ -101,11 +88,11 @@
 
 ## 🏆 Certifications  
 
-- Machine Learning Internship — **SkillDzire**  
-- Java Full Stack Development — **Wipro TalentNext**  
-- SQL — **Programming Hub**  
-- Big Data & Hadoop — **edX**  
-- Data Science Guided Path — **Coding Ninjas**  
+- ✅ Machine Learning Internship — *SkillDzire*  
+- ✅ Java Full Stack Development — *Wipro TalentNext*  
+- ✅ SQL — *Programming Hub*  
+- ✅ Big Data & Hadoop — *edX*  
+- ✅ Data Science Guided Path — *Coding Ninjas*
 
 ---
 
@@ -125,65 +112,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="140"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="140"/>
 </p>
-
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
  
 ---
-## 🚀 Featured Projects
 
-| 🧪 Project | 📝 Description | 🛠 Tech Stack | 🔗 Links |
-|-----------|---------------|-------------|----------|
-| 🌱 **[Water Stress Classification](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant)** | Predicted plant water stress using CNN + LSTM + ML models on bioristor IoT data | Python, TensorFlow, Sklearn, Pandas | [🔗 Paper](https://doi.org/10.5281/zenodo.15047038) |
-| 🌾 **[Rice Grain Classifier](https://github.com/shivareddy2002/Rice-Grain-Classifier)** | Classified rice varieties using CNN + Streamlit | Python, Keras, Streamlit | [🌐 App](https://rice-grain-classifier-project.streamlit.app/) |
-| 📝 **[Text Generation (GRU)](https://github.com/shivareddy2002/GRU-Text-Generation)** | Generated sequences using GRU RNN with beam search | Python, TensorFlow, Streamlit | Demo inside repo |
-| 🤖 **[Word Search Chatbot](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-)** | Interactive chatbot powered by Wikipedia API | HTML, CSS, JS, API | Try in repo |
-| 📊 **[Zomato Data Analysis](https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python)** | Performed data analysis & visualizations on restaurant data | Python, Pandas, Matplotlib | Repo link above |
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivareddy2002&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivareddy2002&theme=react-dark&area=true" />
-</p>
-
-<!-- Snake animation (fun touch) -->
-<p align="center">
-  <img src="https://github.com/shivareddy2002/shivareddy2002/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
----
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-  <a href="mailto:lomadasivagangireddy3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/shivareddy2002/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.kaggle.com/lomadasivagangireddy">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+  <a href="https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  <a href="mailto:lomadasivagangireddy3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/shivareddy2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/lomadasivagangireddy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <p align="center">🚀 Open to collaborations in Data Science, AI & ML Projects!</p>
