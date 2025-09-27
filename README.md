@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shivareddy2002&theme=radical&margin-w=15&margin-h=15&no-bg=true" />
 </p>
 
 
