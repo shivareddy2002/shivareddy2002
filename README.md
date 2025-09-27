@@ -113,16 +113,18 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
 
-</p>
 ## 👀 Profile Analytics
 
 <p align="center">
-  <!-- Visit Counter -->
-  <img src="https://visitcount.itsvg.in/api?id=shivareddy2002&label=Profile%20Views&color=0&icon=5" />
-  
-  <!-- Google Analytics Tracking Pixel (replace G-XXXXXXX with your real ID) -->
-  <img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=G-XXXXXXX&cid=555&dp=/github-profile" width="0" height="0" />
+  <!-- Stable visitor counter -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr?url=https://github.com/shivareddy2002&count_bg=%237B1E7F&title_bg=%2300AEEF&icon=&unit=people" alt="profile hits" />
+
+  <!-- Professional backup badges -->
+  <br/>
+  <img src="https://img.shields.io/github/followers/shivareddy2002?label=Followers&style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/shivareddy2002?label=Stars&style=for-the-badge" alt="stars" />
 </p>
+
 
 ---
 
