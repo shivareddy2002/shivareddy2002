@@ -111,9 +111,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivareddy2002&theme=radical&margin-w=15&margin-h=15&no-bg=true" />
+ <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/shivareddy2002?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/shivareddy2002?label=Stars&style=for-the-badge&color=yellow" />
+</p>
 
 ---
 
