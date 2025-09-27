@@ -105,16 +105,16 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="140"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="120"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="140"/>
 </p>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
 </p>
-<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=YOUR_TRACKING_ID&cid=555&dp=/github-profile" width="0" height="0" />
-<img src="https://visitcount.itsvg.in/api?id=shivareddy2002&label=Profile%20Views&color=0&icon=5&pretty=true" />
+<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=YOUR_TRACKING_ID&cid=555&dp=/github-profile" width="100" height="100" />
+<img src="https://visitcount.itsvg.in/api?id=shivareddy2002&label=Profile%20Views&color=blue&icon=5&pretty=true" />
 
 ---
 
