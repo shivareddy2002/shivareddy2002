@@ -106,14 +106,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="140"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="120"/>
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Views&color=blue&style=for-the-badge" />
-
+ <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
 </p>
+
 
 ---
 
