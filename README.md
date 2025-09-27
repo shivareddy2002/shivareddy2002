@@ -1,21 +1,7 @@
-## 📌 Pinned Repositories
-
 <p align="center">
-  <a href="https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=classification-and-forecasting-of-water-stress-in-tomato-plant&theme=radical" />
-  </a>
-  <a href="https://github.com/shivareddy2002/Rice-Grain-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=Rice-Grain-Classifier&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/shivareddy2002/GRU-Text-Generation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=GRU-Text-Generation&theme=radical" />
-  </a>
-  <a href="https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=Zomato-Data-Analysis-Using-Python&theme=radical" />
-  </a>
+  <a href="https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link"><img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lomadasivagangireddy3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- Header -->
