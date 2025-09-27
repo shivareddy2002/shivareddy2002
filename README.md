@@ -1,3 +1,23 @@
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=classification-and-forecasting-of-water-stress-in-tomato-plant&theme=radical" />
+  </a>
+  <a href="https://github.com/shivareddy2002/Rice-Grain-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=Rice-Grain-Classifier&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivareddy2002/GRU-Text-Generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=GRU-Text-Generation&theme=radical" />
+  </a>
+  <a href="https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shivareddy2002&repo=Zomato-Data-Analysis-Using-Python&theme=radical" />
+  </a>
+</p>
+
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
