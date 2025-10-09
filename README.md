@@ -173,9 +173,10 @@
   <a href="https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/shivareddy2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.kaggle.com/lomadasivagangireddy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-    <a href="tel:+919346493592">
-    <img src="https://img.shields.io/badge/Call-Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/919346493592" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
 </p>
 
 
