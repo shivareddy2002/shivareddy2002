@@ -152,9 +152,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="120"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="120"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="120"/>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=shivareddy2002" alt="GitHub Streak" />
-</a>
+  <!-- This section is about my streak stats 
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shivareddy2002" alt="GitHub Streak" />
+  </a>
+  it is commented-->
 </p>
 
 <p align="center">
