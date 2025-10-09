@@ -8,7 +8,9 @@
 </h3>
 
 ---
-  <img src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical)" height="120"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=shivareddy2002" alt="GitHub Streak" />
+</a>
 
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy   [ 🌐 [Visit My Portfolio](https://lsgr-portfolio-pulse.lovable.app/) ]
 - 🎓 B.Tech in **Computer Science & Engineering (Data Science)** — RGMCET (2021–2025) | CGPA: **8.3**  
