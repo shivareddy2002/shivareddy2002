@@ -162,7 +162,7 @@
 
 <p align="center">
   <a href="https://lsgr-portfolio-pulse.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  <a href="[https://drive.google.com/file/d/1x_Fgj1cdIgA9QZsYmbSvRzuZu7KoVZxF/view?usp=drive_link](https://drive.google.com/file/d/1zVO9aynSYsKZJA0ZlzflNETSIhBShe9S/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
   <a href="mailto:lomadasivagangireddy3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/shivareddy2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
