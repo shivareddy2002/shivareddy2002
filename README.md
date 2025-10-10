@@ -22,7 +22,7 @@
 - **Data Science & AI :** `Machine Learning` • `Deep Learning` • `Data Analytics` • `Data Visualization`
 - **Tools :** `Power BI` • `Excel` • `MySQL` • `Jupyter Notebook` • `VS Code`  
 - **Libraries & Frameworks :** `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow` • `Keras` • `Scikit-learn`  
-- **Soft Skills :** Teamwork, `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
+- **Soft Skills :** `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
 
 ---
 
@@ -30,7 +30,7 @@
 
 - 🚀 Building **AI/ML projects** with clean MLOps-style structure  
 - 🌐 Deploying ML models with **Streamlit / FastAPI**  
-- 🧠 Diving deeper into **Deep Learning**, **Computer Vision**, and **NLP**  
+- 🧠 Diving deeper into `**Deep Learning**` , `**Computer Vision**` and `**NLP**`  
 - 📚 Practicing DSA & SQL on LeetCode / GFG regularly  
 
 ---
@@ -39,7 +39,7 @@
 ### 🌱 [Classification & Forecasting of Water Stress in Tomato Plants](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant)  
 - Developed **CNN + LSTM + Decision Tree + Random Forest models** on **bioristor IoT sensor data**  
 - Predicted **plant water stress levels** to enable smart irrigation & water conservation  
-- Tools: **Python, TensorFlow, Scikit-learn, Pandas, Matplotlib**  
+- Tools: **`Python` • `TensorFlow` • `Scikit-learn` • `Pandas` • `Matplotlib`**  
 - 📑 Published in *Periodico di Mineralogia* (DOI: [10.5281/zenodo.15047038](https://doi.org/10.5281/zenodo.15047038))  
 
 ---
@@ -48,7 +48,7 @@
 - Built a **CNN-based deep learning model** to classify rice grain varieties from images  
 - Predicted **Arborio, Basmati, Ipsala, Jasmine, Karacadag** with confidence scores  
 - Developed an **interactive Streamlit web app** for real-time predictions  
-- Tools: **Python, TensorFlow/Keras, Streamlit, NumPy, Matplotlib**
+- Tools: **`Python` • `TensorFlow/Keras` • `Streamlit` • `NumPy` • `Matplotlib`**
 
 ---
 
@@ -56,14 +56,14 @@
 - Built a **GRU-based RNN** to generate text sequences from a custom corpus  
 - Features **seed text input**, **beam search**, and **interactive Streamlit web app** for real-time text generation  
 - Efficient **lightweight architecture** with fewer parameters than LSTMs for faster training  
-- Tools: **Python, TensorFlow/Keras, Streamlit, NumPy, Pandas, Matplotlib**
+- Tools: **`Python` • `TensorFlow/Keras` • `Streamlit` • `NumPy` • `Pandas` • `Matplotlib`**
 
 ---
 
 ### 🤖 [Word Search Chatbot (Wikipedia API)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-)
 - Built an **interactive chatbot** to retrieve real-time information from Wikipedia  
 - Integrated **Wikipedia API** for knowledge extraction  
-- Tools: **HTML, CSS, JavaScript, API integration**  
+- Tools: **`HTML` • `CSS, JavaScript` • `API integration`**  
 - 📚 Useful for **educational assistance & quick knowledge queries**  
 
 ---
@@ -71,7 +71,7 @@
 ### 📊 [Zomato Data Analysis Using Python](https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python)  
 - Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
 - Built **visualizations** for customer preferences and restaurant performance evaluation  
-- Tools: **Python, Pandas, NumPy, Matplotlib, Seaborn**  
+- Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`**  
 - 📈 Provided actionable insights into **customer dining trends**  
 
 <p align="center">
