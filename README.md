@@ -1,15 +1,3 @@
-## 🏅 Certifications  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Internship-SkillDzire-6A11CB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Development-Wipro%20TalentNext-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-Programming%20Hub-FFD43B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Big%20Data%20%26%20Hadoop-edX-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Science%20Path-Coding%20Ninjas-FF6F00?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
@@ -156,7 +144,17 @@
 - 📚 Published research paper in an **international journal (2025)**  
 
 ---
+<!--
+## 🏅 Certifications  
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Internship-SkillDzire-6A11CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java%20Full%20Stack%20Development-Wipro%20TalentNext-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Programming%20Hub-FFD43B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Big%20Data%20%26%20Hadoop-edX-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science%20Path-Coding%20Ninjas-FF6F00?style=for-the-badge" />
+</p>
+-->
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
