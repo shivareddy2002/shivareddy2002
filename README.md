@@ -20,6 +20,7 @@
 
 **Programming :** `Python` • ` SQL` • `Java` • `C` • `R` • `HTML` • `CSS`  
 **Data Science & AI :** `Machine Learning` • `Deep Learning` • `Data Analytics` • `Data Visualization`
+
 **Tools :** `Power BI` • `Excel` • `MySQL` • `Jupyter Notebook` • `VS Code`  
 **Libraries & Frameworks :** `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow` • `Keras` • `Scikit-learn`  
 **Soft Skills :** Teamwork, `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
