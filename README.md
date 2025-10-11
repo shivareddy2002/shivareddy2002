@@ -1,3 +1,19 @@
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://msr-folio-crafted.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1zVO9aynSYsKZJA0ZlzflNETSIhBShe9S/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  <a href="mailto:muddamrushi29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/rushimuddam29"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/muddam-sanjeeva-rushijana"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://leetcode.com/u/shivareddy2002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/lomadasivagangireddy"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  -->
+  <a href="https://wa.me/916305738926" target="_blank"> 
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
