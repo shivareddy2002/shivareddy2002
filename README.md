@@ -68,11 +68,11 @@
 
 ---
 
-### 📊 [Zomato Data Analysis Using Python](https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python)  
+### 📊 [🍴 Zomato Data Analysis Dashboard & Recommendation System](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard)  
 - Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
 - Built **visualizations** for customer preferences and restaurant performance evaluation  
-- Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`**  
-- 📈 Provided actionable insights into **customer dining trends**  
+- Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit` **  
+- 📈 Delivered actionable insights on customer preferences, city-level trends, and restaurant performance.
 
 <p align="center">
 
@@ -108,7 +108,7 @@
     <td><a href="https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/">Demo</a></td>
   </tr>
   <tr>
-    <td>📊 <a href="https://github.com/shivareddy2002/Zomato-Data-Analysis-Using-Python">Zomato Data Analysis</a></td>
+    <td>📊 <a href="https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard">Zomato Dashboard</a></td>
     <td>Data analysis & visualizations for restaurant insights</td>
     <td>Python, Pandas, Seaborn</td>
     <td><a href="https://zomato-data-analysis-dashboard.streamlit.app/">Demo</a></td>
