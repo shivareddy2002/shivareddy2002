@@ -76,7 +76,7 @@
 
 ---
 
-<h3 align="center">Project Summary Table</h3>
+## Project Summary Table
 
 <p align="center">
 
