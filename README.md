@@ -76,7 +76,7 @@
 
 ---
 
-## Project Summary Table
+## 📑 Project Summary Table
 
 <p align="center">
 
