@@ -74,6 +74,10 @@
 - Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit` **  
 - 📈 Delivered actionable insights on customer preferences, city-level trends, and restaurant performance.
 
+---
+
+<h3 align="center">Project Summary Table</h3>
+
 <p align="center">
 
 <table>
