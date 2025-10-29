@@ -203,15 +203,4 @@ Check out my projects, connect with me, and let's collaborate! 🤝
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,150:2575FC&height=150&section=footer" />
 </p>
-| Phase | Module                   | Main Owner(s)                    | Supporting Teams     |
-| ----- | ------------------------ | -------------------------------- | -------------------- |
-| 1     | User Authentication      | Srinu, Divya                     | Shalini              |
-| 2     | Chat-First Search        | Revanth, Siva                    | —                    |
-| 3     | Resume Parsing           | Siva                             | Priyavyshanavi       |
-| 4     | Semantic Search          | Sudhrashan                       | Siva, Priyavyshanavi |
-| 5     | Similar Profile Matching | Sudhrashan                       | Rushi                |
-| 6     | Smart Screening + ATS    | Rushi                            | Tarak                |
-| 7     | Outreach Automation      | Siva (backend) + Prathyusha (UI) | Shalini              |
-| 8     | Tracking & Analytics     | Tarak + Srinu                    | Shalini              |
-| 9     | AI Tools                 | Suresh                           | —                    |
-| 10    | Deployment               | All teams                        | —                    |
+
