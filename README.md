@@ -34,6 +34,34 @@
 - 📚 Practicing DSA & SQL on LeetCode / GFG regularly  
 
 ---
+---
+
+## 💼 Internship Experience  
+
+### 🧠 **Data Science Intern — CEDLEARN**  
+📅 *Aug 2025 – Oct 2025*  
+- Worked on real-world **data analysis and AI-driven projects** under industry mentorship.  
+- Gained hands-on experience with **Python, SQL, Machine Learning, and Streamlit** for interactive analytics.  
+- Developed and deployed end-to-end **data visualization dashboards and text-based AI models**.  
+
+#### 🔹 Notable Projects during Internship  
+
+### 📊 [🍴 Zomato Data Analysis Dashboard & Recommendation System](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard)  
+- Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
+- Built **visualizations** for customer preferences and restaurant performance evaluation  
+- Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit`**  
+- 📈 Delivered actionable insights on customer preferences, city-level trends, and restaurant performance  
+
+---
+
+### 📝 [Text Generation Using GRU Model](https://github.com/shivareddy2002/GRU-Text-Generation)
+- Built a **GRU-based RNN** to generate text sequences from a custom corpus  
+- Features **seed text input**, **beam search**, and **interactive Streamlit web app** for real-time text generation  
+- Efficient **lightweight architecture** with fewer parameters than LSTMs for faster training  
+- Tools: **`Python` • `TensorFlow/Keras` • `Streamlit` • `NumPy` • `Pandas` • `Matplotlib`**  
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 🌱 [Classification & Forecasting of Water Stress in Tomato Plants](https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant)  
