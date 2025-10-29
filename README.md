@@ -132,11 +132,14 @@
 
 ## 🏆 Certifications  
 
-- ✅ Machine Learning Internship — *SkillDzire*  
-- ✅ Java Full Stack Development — *Wipro TalentNext*  
-- ✅ SQL — *Programming Hub*  
-- ✅ Big Data & Hadoop — *edX*  
-- ✅ Data Science Guided Path — *Coding Ninjas*
+- ✅ **Data Science Course Certification** — *CEDLEARN*  
+- ✅ **AI Generalist Credential** — *Digital Maven*  
+- ✅ **Machine Learning Internship** — *SkillDzire*  
+- ✅ **Data Science Internship** — *CEDLEARN*  
+- ✅ **Java Full Stack Development** — *Wipro TalentNext*  
+- ✅ **SQL Certification** — *Programming Hub*  
+- ✅ **Big Data & Hadoop** — *edX*  
+- ✅ **Data Science Guided Path** — *Coding Ninjas Studio*  
 
 ---
 
