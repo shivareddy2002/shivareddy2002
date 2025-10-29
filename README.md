@@ -44,7 +44,7 @@
 - Gained hands-on experience with **Python, SQL, Machine Learning, and Streamlit** for interactive analytics.  
 - Developed and deployed end-to-end **data visualization dashboards and text-based AI models**.  
 
-#### 🔹 Notable Projects during Internship  
+### 🔹 Notable Projects during Internship  
 
 ### 📊 [🍴 Zomato Data Analysis Dashboard & Recommendation System](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard)  
 - Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
@@ -52,7 +52,6 @@
 - Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit`**  
 - 📈 Delivered actionable insights on customer preferences, city-level trends, and restaurant performance  
 
----
 
 ### 📝 [Text Generation Using GRU Model](https://github.com/shivareddy2002/GRU-Text-Generation)
 - Built a **GRU-based RNN** to generate text sequences from a custom corpus  
@@ -80,14 +79,6 @@
 
 ---
 
-### 📝 [Text Generation Using GRU Model](https://github.com/shivareddy2002/GRU-Text-Generation)
-- Built a **GRU-based RNN** to generate text sequences from a custom corpus  
-- Features **seed text input**, **beam search**, and **interactive Streamlit web app** for real-time text generation  
-- Efficient **lightweight architecture** with fewer parameters than LSTMs for faster training  
-- Tools: **`Python` • `TensorFlow/Keras` • `Streamlit` • `NumPy` • `Pandas` • `Matplotlib`**
-
----
-
 ### 🤖 [Word Search Chatbot (Wikipedia API)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-)
 - Built an **interactive chatbot** to retrieve real-time information from Wikipedia  
 - Integrated **Wikipedia API** for knowledge extraction  
@@ -96,13 +87,6 @@
 
 ---
 
-### 📊 [🍴 Zomato Data Analysis Dashboard & Recommendation System](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard)  
-- Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
-- Built **visualizations** for customer preferences and restaurant performance evaluation  
-- Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit` **  
-- 📈 Delivered actionable insights on customer preferences, city-level trends, and restaurant performance.
-
----
 
 ## 📑 Project Summary Table
 
