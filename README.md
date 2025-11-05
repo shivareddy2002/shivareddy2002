@@ -25,7 +25,19 @@
 - **Soft Skills :** `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
 
 ---
+### 🛠️ Tech Skills
 
+| Category | Skills |
+|----------|--------|
+| Programming | Python (Advanced), SQL (Advanced), Java (Intermediate) |
+| Data Analysis | Pandas, NumPy, Excel, Power BI |
+| Visualization | Matplotlib, Seaborn, Power BI Charts |
+| ML / AI | Scikit-learn, TensorFlow, Keras, CNN, RNN/GRU, LSTM |
+| Deployment | Streamlit, FastAPI (basic) |
+| Databases | MySQL |
+| Soft Skills | Problem Solving, Teamwork, Time Management |
+
+---
 ## 📌 Current Focus & Learning
 
 - 🚀 Building **AI/ML projects** with clean MLOps-style structure  
