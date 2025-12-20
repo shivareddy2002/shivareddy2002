@@ -80,6 +80,16 @@
 
 ---
 
+### 🚗 [AutoPredict Pro – AI Powered Car Price Prediction](https://github.com/shivareddy2002/car-price-prediction)
+- Developed an **end-to-end Machine Learning & Deep Learning web application** to predict used car prices  
+- Implemented **Random Forest & ANN models** with preprocessing pipelines for accurate predictions  
+- Built a **professional Streamlit dashboard** with INR-formatted outputs  
+- Included **feature importance, depreciation trends & market insights (XAI)**  
+- Tools: **`Python` • `Scikit-learn` • `TensorFlow/Keras` • `Pandas` • `NumPy` • `Streamlit`**  
+- 🌐 **Live Demo**: [View App](https://car-price-prediction-pro.streamlit.app/)
+
+---
+
 ### 🤖 [Word Search Chatbot (Wikipedia API)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-)
 - Built an **interactive chatbot** to retrieve real-time information from Wikipedia  
 - Integrated **Wikipedia API** for knowledge extraction  
@@ -112,6 +122,13 @@
     <td>Python, Keras, Streamlit</td>
     <td><a href="https://rice-grain-classifier-project.streamlit.app/">Demo</a></td>
   </tr>
+    <tr>
+      <td>🚗 <a href="https://github.com/shivareddy2002/car-price-prediction">AutoPredict Pro</a></td>
+      <td>AI-powered web app for used car price prediction using ML & DL models</td>
+      <td>Python, Scikit-learn, TensorFlow, Streamlit</td>
+      <td><a href="https://car-price-prediction-pro.streamlit.app/">Demo</a></td>
+    </tr>
+
   <tr>
     <td>📝 <a href="https://github.com/shivareddy2002/GRU-Text-Generation">Text Generation</a></td>
     <td>GRU-based RNN for sequence generation with beam search</td>
