@@ -86,8 +86,6 @@
 - Built a **professional Streamlit dashboard** with INR-formatted outputs  
 - Included **feature importance, depreciation trends & market insights (XAI)**  
 - Tools: **`Python` • `Scikit-learn` • `TensorFlow/Keras` • `Pandas` • `NumPy` • `Streamlit`**  
-- 🌐 **Live Demo**: [View App](https://car-price-prediction-pro.streamlit.app/)
-
 ---
 
 ### 🤖 [Word Search Chatbot (Wikipedia API)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-)
