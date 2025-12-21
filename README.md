@@ -201,11 +201,11 @@
     <img src="https://streak-stats.demolab.com?user=shivareddy2002" alt="GitHub Streak" />
   </a>
   it is commented-->
-</p>
+<!-- </p>
 <img 
   src="https://streak-stats.demolab.com?user=shivareddy2002&theme=radical" 
   height="120"
-/>
+/> -->
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
