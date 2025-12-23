@@ -19,11 +19,11 @@
 
 ## 🛠️ Tech Skills  
 
-- **Programming :** `Python` • ` SQL` • `Java` • `C` • `R` • `HTML` • `CSS`  
-- **Data Science & AI :** `Data Preprocessing` • `Data Visualization` • `Data Analytics` • `Machine Learning` • `Deep Learning`
-- **Tools :**  `Excel` • `MySQL` • `Power BI`  • `Jupyter Notebook` • `VS Code` 
-- **Libraries & Frameworks :** `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow` • `Keras` • `Scikit-learn`  
-- **Soft Skills :** `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
+- **Programming :** • `Python` • ` SQL` • `Java` • `C` • `R` • `HTML` • `CSS`  
+- **Data Science & AI :** • `Data Preprocessing` • `Data Visualization` • `Data Analytics` • `Machine Learning` • `Deep Learning`
+- **Tools :**  • `Excel` • `MySQL` • `Power BI`  • `Jupyter Notebook` • `VS Code` 
+- **Libraries & Frameworks :** • `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow` • `Keras` • `Scikit-learn`  
+- **Soft Skills :** • `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
 
 ---
 
@@ -50,7 +50,7 @@
 ### 📊 [🍴 Zomato Data Analysis Dashboard & Recommendation System](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard)  
 - Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
 - Built **visualizations** for customer preferences and restaurant performance evaluation  
-- Tools: **`Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit`**  
+- Tools: **`• Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit`**  
 - 📈 Delivered actionable insights on customer preferences, city-level trends, and restaurant performance  
 
 
