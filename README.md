@@ -80,7 +80,7 @@
 
 ---
 
-### 🚗 [AutoPredict Pro – AI Powered Car Price Prediction](https://github.com/shivareddy2002/car-price-prediction)
+### 🚗 [AI Powered Car Price Prediction](https://github.com/shivareddy2002/car-price-prediction)
 - Developed an **end-to-end Machine Learning & Deep Learning web application** to predict used car prices  
 - Implemented **Random Forest & ANN models** with preprocessing pipelines for accurate predictions  
 - Built a **professional Streamlit dashboard** with INR-formatted outputs  
@@ -121,7 +121,7 @@
     <td><a href="https://rice-grain-classifier-project.streamlit.app/">Demo</a></td>
   </tr>
     <tr>
-      <td>🚗 <a href="https://github.com/shivareddy2002/car-price-prediction">AutoPredict Pro</a></td>
+      <td>🚗 <a href="https://github.com/shivareddy2002/car-price-prediction">Car Price Prediction</a></td>
       <td>AI-powered web app for used car price prediction using ML & DL models</td>
       <td>Python, Scikit-learn, TensorFlow, Streamlit</td>
       <td><a href="https://car-price-prediction-pro.streamlit.app/">Demo</a></td>
