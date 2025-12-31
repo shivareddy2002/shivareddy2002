@@ -79,6 +79,15 @@
 - Tools: **`Python` • `TensorFlow/Keras` • `Streamlit` • `NumPy` • `Matplotlib`**
 
 ---
+### 💳 [Credit Card Transaction Dashboard | Power BI](https://github.com/shivareddy2002/Credit_Card_Transaction_Report)
+- Built an **end-to-end Business Intelligence dashboard** to analyze credit card transactions and customer behavior  
+- Delivered **Weekly, Quarterly & YTD insights** on revenue, transactions, activation, and delinquency  
+- Designed a **SQL-based data model** with **One-to-Many relationships** for analytical reporting  
+- Created **DAX measures** for revenue, customer segmentation, and time intelligence (WoW analysis)  
+- Developed an **interactive Power BI dashboard** with slicers for card type, gender, income, region, and transaction mode  
+- Tools: **`Power BI` • `SQL (MySQL)` • `DAX` • `Data Modeling` • `Data Analytics`**
+
+---
 
 ### 🚗 [AI Powered Car Price Prediction](https://github.com/shivareddy2002/car-price-prediction)
 - Developed an **end-to-end Machine Learning & Deep Learning web application** to predict used car prices  
@@ -133,6 +142,12 @@
     <td>Python, TensorFlow, Streamlit</td>
     <td><a href="https://text-generation-using-gru-model.streamlit.app/">Demo</a></td>
   </tr>
+  <tr>
+  <td>💳 <a href="https://github.com/shivareddy2002/Credit_Card_Transaction_Report">Credit Card Dashboard</a></td>
+  <td>Interactive Power BI dashboard for financial performance, customer behavior & risk analysis</td>
+  <td>Power BI, SQL, DAX, Data Modeling</td>
+  <td><a href="https://drive.google.com/drive/folders/1YSSy2iV1EUN50Yyfj53jRacoqx3Kx3rV">Demo</a></td>
+</tr>
   <tr>
     <td>🤖 <a href="https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia-">Word Search Chatbot</a></td>
     <td>Interactive chatbot using Wikipedia API</td>
