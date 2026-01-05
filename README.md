@@ -206,8 +206,27 @@
 </p>
 -->
 ## 📊 GitHub Stats & Activity  
-
 <p align="center">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical&cache_seconds=1800" 
+    height="150"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical&cache_seconds=1800" 
+    height="150"
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com?user=shivareddy2002&theme=radical&hide_border=true" 
+    height="150"
+  />
+</p>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=radical" height="120"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=radical" height="120"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=radical" height="120"/>
@@ -220,7 +239,7 @@
 <!-- <img 
   src="https://streak-stats.demolab.com?user=shivareddy2002&theme=radical" 
   height="120"
-/> -->
+/> --> -->
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=shivareddy2002&label=Profile%20Visitors&color=blue&style=for-the-badge" />
