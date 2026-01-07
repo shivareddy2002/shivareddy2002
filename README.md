@@ -174,7 +174,7 @@
 ---
 
 ## 🏆 Certifications  
-- I**SQL** Skill-Up Certification – *GeeksforGeeks*
+- **SQL** Skill-Up Certification – *GeeksforGeeks*
 - **Data Analyst** 101 – *Simplilearn (Microsoft)* 
 - ✅ **Data Science Course Certification** — *CEDLEARN*  
 - ✅ **AI Generalist Credential** — *Digital Maven*  
