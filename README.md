@@ -184,7 +184,7 @@
 - ✅ **Java Full Stack Development** — *Wipro TalentNext*  
 - ✅ **SQL Certification** — *Programming Hub*  
 - ✅ **Big Data & Hadoop** — *edX*  
-- ✅ **Data Science Guided Path** — *Coding Ninjas Studio*  
+- ✅ **Data Science Guided Path** — *Coding Ninjas Studio*
 
 ---
 
