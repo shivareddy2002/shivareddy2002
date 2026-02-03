@@ -30,7 +30,6 @@
 ---
 
 ## 📌 Current Focus & Learning
-
 - 🚀 Building **AI/ML projects** with clean MLOps-style structure  
 - 🌐 Deploying ML models with **Streamlit / FastAPI**  
 - 🧠 Diving deeper into `**Deep Learning**` , `**Computer Vision**` and `**NLP**`  
