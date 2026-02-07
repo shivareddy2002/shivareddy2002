@@ -6,7 +6,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=800&lines=📊+Transforming+Data+into+Insights+|+Data+Science+Enthusiast;👨‍💻+Python+•+SQL+•+ML+•+DL+•+Power+BI;🚀+Open+to+Jobs+and+Internships!" />
 </h3>
-
 ---
 
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy   [ 🌐 [Visit My Portfolio](https://lsgr-portfolio-pulse.lovable.app/) ]
