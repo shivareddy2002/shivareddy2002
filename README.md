@@ -46,18 +46,17 @@
 
 ### 🔹 Notable Projects during Internship  
 
+### 📝 [Text Generation Using GRU Model](https://github.com/shivareddy2002/GRU-Text-Generation)
+- Built a **GRU-based RNN** to generate text sequences from a custom corpus  
+- Features **seed text input**, **beam search**, and **interactive Streamlit web app** for real-time text generation  
+- Efficient **lightweight architecture** with fewer parameters than LSTMs for faster training  
+- Tools: **`Python` • `TensorFlow/Keras` • `Streamlit` • `NumPy` • `Pandas` • `Matplotlib`**
+
 ### 📊 [🍴 Zomato Data Analysis Dashboard & Recommendation System](https://github.com/shivareddy2002/Zomato-Data-Analysis-Dashboard)  
 - Analyzed **restaurant dataset** to identify patterns in ratings, food types, and pricing  
 - Built **visualizations** for customer preferences and restaurant performance evaluation  
 - Tools: **`• Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Streamlit`**  
 - 📈 Delivered actionable insights on customer preferences, city-level trends, and restaurant performance  
-
-
-### 📝 [Text Generation Using GRU Model](https://github.com/shivareddy2002/GRU-Text-Generation)
-- Built a **GRU-based RNN** to generate text sequences from a custom corpus  
-- Features **seed text input**, **beam search**, and **interactive Streamlit web app** for real-time text generation  
-- Efficient **lightweight architecture** with fewer parameters than LSTMs for faster training  
-- Tools: **`Python` • `TensorFlow/Keras` • `Streamlit` • `NumPy` • `Pandas` • `Matplotlib`**  
 
 ---
 
