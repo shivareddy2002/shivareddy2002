@@ -8,7 +8,7 @@
 </h3>
 ---
 
-## 👋 Hi, I'm Lomada Siva Gangi Reddy   [ 🌐 [Visit My Portfolio](https://lsgr-portfolio-pulse.lovable.app/) ]
+## 👋 Hi, I'm Lomada Siva Gangi Reddy   [ 🌐 [Visit My Portfolio](https://lsgr-portfolio-pulse.vercel.app/) ]
 - 🎓 B.Tech in **Computer Science & Engineering (Data Science)** — RGMCET (2021–2025) | CGPA: **8.3**  
 - 📈 Aspiring **Data Scientist / Data Analyst** passionate about **AI, ML, and Data Analytics**  
 - 💼 Skilled in **Python, SQL, Power BI, Excel, ML, DL, Visualization**  
