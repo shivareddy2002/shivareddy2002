@@ -240,4 +240,3 @@ Check out my projects, connect with me, and let's collaborate! 🤝
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,150:2575FC&height=150&section=footer" />
 </p>
-
