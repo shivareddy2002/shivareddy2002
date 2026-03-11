@@ -6,6 +6,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=800&lines=📊+Transforming+Data+into+Insights+|+Data+Science+Enthusiast;👨‍💻+Python+•+SQL+•+ML+•+DL+•+Power+BI;🚀+Open+to+Jobs+and+Internships!" />
 </h3>
+
 ---
 
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy   [ 🌐 [Visit My Portfolio](https://lsgr-portfolio-pulse.vercel.app/) ]
@@ -172,17 +173,17 @@
 ---
 
 ## 🏆 Certifications  
+- ✅ **Data Science Internship** — *CEDLEARN*  
 - ✅ **SQL** Skill-Up Certification – *GeeksforGeeks*
-- ✅ **Data Analyst** 101 – *Simplilearn (Microsoft)* 
-- ✅ **Data Science Course Certification** — *CEDLEARN*  
+- ✅ **Data Analyst** – *Simplilearn (Microsoft)* 
+- ✅ **Data Science Course Completion Certification** — *CEDLEARN*  
 - ✅ **AI Generalist Credential** — *Digital Maven*  
 - ✅ **Machine Learning Internship** — *SkillDzire*  
-- ✅ **Data Science Internship** — *CEDLEARN*  
 - ✅ **Java Full Stack Development** — *Wipro TalentNext*  
 - ✅ **SQL Certification** — *Programming Hub*  
 - ✅ **Big Data & Hadoop** — *edX*  
 - ✅ **Data Science Guided Path** — *Coding Ninjas Studio*
-
+  
 ---
 
 ## 🏅 Achievements & Extras  
