@@ -20,27 +20,26 @@
 
 ## 🛠️ Tech Skills  
 
-- **Programming :** • `Python` • ` SQL` • `Java` • `C` • `R` • `HTML` • `CSS`  
-- **Data Science & AI :** • `Data Preprocessing` • `Data Visualization` • `Data Analytics` • `Machine Learning` • `Deep Learning`
+- **Programming :** • `Python`
+- **Data Bases :**  • ` SQL`
+- **Data Science & AI :** • `Data Preprocessing` • `Data Analytics` • `ML` • `DL` • ` NLP` • ` LLM` 
 - **Tools :**  • `Excel` • `MySQL` • `Power BI`  • `Jupyter Notebook` • `VS Code` 
-- **Libraries & Frameworks :** • `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow` • `Keras` • `Scikit-learn`  
+- **Libraries & Frameworks :** • `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow`  • `Scikit-learn`  • `NLTK`
 - **Soft Skills :** • `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
 
 ---
 
 ## 📌 Current Focus & Learning
 - 🚀 Building **AI/ML projects** with clean MLOps-style structure  
-- 🌐 Deploying ML models with **Streamlit / FastAPI**  
-- 🧠 Diving deeper into `**Deep Learning**` , `**Computer Vision**` and `**NLP**`  
-- 📚 Practicing DSA & SQL on LeetCode / GFG regularly  
+- 🌐 Deploying ML models with **Streamlit / FastAPI / Flask**  
+- 🧠 Diving deeper into `**LLM**` , `**Computer Vision**` and `**GenAi**`  
 
----
 ---
 
 ## 💼 Internship Experience  
 
 ### 🧠 **Data Science Intern — CEDLEARN**  
-📅 *Aug 2025 – Oct 2025*  
+📅 *Oct 2025 – Dec 2025*  
 - Worked on real-world **data analysis and AI-driven projects** under industry mentorship.  
 - Gained hands-on experience with **Python, SQL, Machine Learning, and Streamlit** for interactive analytics.  
 - Developed and deployed end-to-end **data visualization dashboards and text-based AI models**.  
