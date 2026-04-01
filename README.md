@@ -21,9 +21,7 @@
 ---
 
 ## 🛠️ Tech Skills  
-
-- **Programming :** • `Python`
-- **Data Bases :**  • ` SQL`
+- **Programming Languages & Databases:** • `Python` • `SQL`
 - **Data Science & AI :** • `Data Preprocessing` • `Data Analytics` • `ML` • `DL` • ` NLP` • ` LLM` 
 - **Tools :**  • `Excel` • `MySQL` • `Power BI`  • `Jupyter Notebook` • `VS Code` 
 - **Libraries & Frameworks :** • `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow`  • `Scikit-learn`  • `NLTK`
