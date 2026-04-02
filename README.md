@@ -37,7 +37,16 @@
 ---
 
 ## 💼 Internship Experience  
+### 🚀 **Data Engineering Intern — Boolean Data Private Limited**
 
+📍 Hyderabad, India | 📅 Mar 2026 – Present
+
+Working on real-world data engineering tasks and scalable systems
+Building **data pipelines and ETL workflows**
+Performing **data migration** across systems
+Optimizing performance using Snowflake features
+
+Skills: ** • `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`**
 ### 🧠 **Data Science Intern — CEDLEARN**  
 📅 *Oct 2025 – Dec 2025*  
 - Worked on real-world **data analysis and AI-driven projects** under industry mentorship.  
