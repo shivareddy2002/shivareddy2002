@@ -33,7 +33,7 @@
 ## 📌 Current Focus & Learning
 - 🚀 Building **AI/ML projects** with clean MLOps-style structure  
 - 🌐 Deploying ML models with **Streamlit / FastAPI / Flask**  
-- 🧠 Diving deeper into `LLM` , `Computer Vision` and `GenAi`  
+- 🧠 Diving deeper into **`LLM` , `Computer Vision` and `GenAi`**
 
 ---
 
@@ -47,9 +47,9 @@
 - Performing **data migration** across systems
 - Optimizing performance using Snowflake features
 
-Skills: ** • `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`**
+Skills: **• `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`**
 ### 🧠 **Data Science Intern — CEDLEARN**  
-📅 *Oct 2025 – Dec 2025*  
+📅 `Oct 2025 – Dec 2025` 
 - Worked on real-world **data analysis and AI-driven projects** under industry mentorship.  
 - Gained hands-on experience with **Python, SQL, Machine Learning, and Streamlit** for interactive analytics.  
 - Developed and deployed end-to-end **data visualization dashboards and text-based AI models**.  
