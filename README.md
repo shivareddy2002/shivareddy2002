@@ -33,7 +33,7 @@
 ## 📌 Current Focus & Learning
 - 🚀 Building **AI/ML projects** with clean MLOps-style structure  
 - 🌐 Deploying ML models with **Streamlit / FastAPI / Flask**  
-- 🧠 Diving deeper into `**LLM**` , `**Computer Vision**` and `**GenAi**`  
+- 🧠 Diving deeper into `LLM` , `Computer Vision` and `GenAi`  
 
 ---
 
