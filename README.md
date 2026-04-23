@@ -169,7 +169,6 @@ Skills: **• `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`*
     <td><a href="https://zomato-data-analysis-dashboard.streamlit.app/">Demo</a></td>
   </tr>
 </table>
-
 </p>
 
 ---
