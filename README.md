@@ -23,17 +23,18 @@
 
 ## 🛠️ Tech Skills  
 - **Programming Languages & Databases:** • `Python` • `SQL`
+- **Data Engineering :** • `Snowflake` • `ETL Pipelines` • `Data Warehousing` • `Data Modeling` • `CDC`
 - **Data Science & AI :** • `Data Preprocessing` • `Data Analytics` • `ML` • `DL` • ` NLP` • ` LLM` 
 - **Tools :**  • `Excel` • `MySQL` • `Power BI`  • `Jupyter Notebook` • `VS Code` 
 - **Libraries & Frameworks :** • `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow`  • `Scikit-learn`  • `NLTK`
 - **Soft Skills :** • `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
 
 ---
-
 ## 📌 Current Focus & Learning
-- 🚀 Building **AI/ML projects** with clean MLOps-style structure  
-- 🌐 Deploying ML models with **Streamlit / FastAPI / Flask**  
-- 🧠 Diving deeper into **`LLM` , `Computer Vision` and `GenAi`**
+- 🚀 Building **end-to-end ETL pipelines**
+- ☁️ Working with **Snowflake Cloud Data Platform**
+- 🔄 Learning **Change Data Capture (CDC) & Data Streaming**
+- ⚡ Optimizing **query performance & data workflows**
 
 ---
 
@@ -42,12 +43,13 @@
 
 📍 Hyderabad, India | 📅 Mar 2026 – Present
 
-- Working on real-world data engineering tasks and scalable systems
-- Building **data pipelines and ETL workflows**
-- Performing **data migration** across systems
-- Optimizing performance using Snowflake features
+- Building scalable **ETL pipelines** using **Snowflake, SQL, Python**
+- Designing and optimizing **data warehousing solutions**
+- Performing **data migration and transformation**
+- Implementing **CDC (Change Data Capture) pipelines**
+- Improving performance using **query optimization & warehouse tuning**
 
-Skills: **• `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`**
+Skills: `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines` • `Data Warehousing`
 ### 🧠 **Data Science Intern — CEDLEARN**  
 📅 `Oct 2025 – Dec 2025` 
 - Worked on real-world **data analysis and AI-driven projects** under industry mentorship.  
@@ -55,7 +57,14 @@ Skills: **• `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`*
 - Developed and deployed end-to-end **data visualization dashboards and text-based AI models**.  
 
 ### 🔹 Notable Projects during Internship  
-
+### 🛒 [Retail Sales Data Pipeline (Snowflake)](https://github.com/shivareddy2002/Retail-Sales-Data-Pipeline)
+- Built an **end-to-end data pipeline** using **Snowflake** to ingest raw retail data, transform it, and deliver **analytics-ready datasets**  
+- Implemented **Change Data Capture (CDC)** using **Snowflake Streams & Tasks** for real-time incremental data processing  
+- Designed a **Star Schema (Fact & Dimension tables)** to optimize query performance and reporting efficiency  
+- Developed **incremental loading (MERGE strategy)** to handle inserts & updates efficiently  
+- Integrated with **Power BI dashboards** for business insights and reporting  
+- Tools: **`Snowflake` • `SQL` • `ETL` • `Data Warehousing` • `CDC` • `Power BI`**
+- 
 ### 📝 [Text Generation Using GRU Model](https://github.com/shivareddy2002/GRU-Text-Generation)
 - Built a **GRU-based RNN** to generate text sequences from a custom corpus  
 - Features **seed text input**, **beam search**, and **interactive Streamlit web app** for real-time text generation  
@@ -126,11 +135,18 @@ Skills: **• `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`*
     <th>🔗 Links</th>
   </tr>
   <tr>
+  <td>🛒 <a href="https://github.com/shivareddy2002/Retail-Sales-Data-Pipeline">Retail Sales Data Pipeline</a></td>
+    <td>Developed a Snowflake-based ETL pipeline with CDC and data modeling for analytics and reporting</td>
+  <td>Snowflake, SQL, ETL, Data Warehousing, CDC, Power BI</td>
+  <td><a href="https://github.com/shivareddy2002/Retail-Sales-Data-Pipeline">GitHub</a></td>
+</tr>
+  <tr>
     <td>🌱 <a href="https://github.com/shivareddy2002/classification-and-forecasting-of-water-stress-in-tomato-plant">Water Stress Prediction</a></td>
     <td>Predicted water stress using CNN+LSTM+ML on IoT data</td>
     <td>Python, TensorFlow, Sklearn</td>
     <td><a href="https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/">Demo</a></td>
   </tr>
+  
   <tr>
     <td>🌾 <a href="https://github.com/shivareddy2002/Rice-Grain-Classifier">Rice Type Classifier</a></td>
     <td>Classified rice varieties with CNN and Streamlit app</td>
@@ -181,6 +197,7 @@ Skills: **• `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines`*
 ---
 
 ## 🏆 Certifications  
+- ✅ **Snowflake Certification** Preparation (COF-C03)— Udemy  
 - ✅ **Data Science Internship** — *CEDLEARN*  
 - ✅ **SQL** Skill-Up Certification – *GeeksforGeeks*
 - ✅ **Data Analyst** – *Simplilearn (Microsoft)* 
