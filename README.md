@@ -31,6 +31,7 @@
 - **Soft Skills :** • `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
 
 ---
+
 ## 📌 Current Focus & Learning
 - 🚀 Building **end-to-end ETL pipelines**
 - ☁️ Working with **Snowflake Cloud Data Platform**
