@@ -198,9 +198,11 @@ Skills: `Snowflake` • `SQL` • `Python` • `ETL` • `Data Pipelines` • `D
 ---
 
 ## 🏆 Certifications  
-- ✅ **Snowflake Certification** Preparation (COF-C03)— Udemy  
-- ✅ **Data Science Internship** — *CEDLEARN*  
+- ✅ **Snowpro Core Certification** (COF-C03)— Snowflake  
+- ✅ **Data Science Internship** — *CeduraTech*  \
+- ✅ **Data Science With AI** — *CEDLEARN*
 - ✅ **SQL** Skill-Up Certification – *GeeksforGeeks*
+- ✅ **Snowflake Certification** Preparation (COF-C03)— Udemy  
 - ✅ **Data Analyst** – *Simplilearn (Microsoft)* 
 - ✅ **Data Science Course Completion Certification** — *CEDLEARN*  
 - ✅ **AI Generalist Credential** — *Digital Maven*  
