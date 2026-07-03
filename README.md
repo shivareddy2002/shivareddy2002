@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivareddy2002&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivareddy2002&theme=github_Light" />
 </p>
 
 <!-- Header -->
