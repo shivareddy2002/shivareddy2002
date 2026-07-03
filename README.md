@@ -2,15 +2,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivareddy2002&theme=github_dark" />
 </p>
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="35%">
+<td width="35%" align="center">
 
-<img src="https://avatars.githubusercontent.com/shivareddy2002?s=200" width="140px" style="border-radius:50%;">
+<img src="https://avatars.githubusercontent.com/shivareddy2002" width="130px" style="border-radius:50%;"/>
 
-# **Lomada Siva Gangi Reddy**
+# <span style="color:#29b6f6;">Lomada Siva Gangi Reddy</span>
 
-👥 **Followers:** ![](https://img.shields.io/github/followers/shivareddy2002?style=social)
+<p>
+<img src="https://img.shields.io/github/followers/shivareddy2002?label=Followers&style=flat&color=29b6f6"/>
+</p>
 
 </td>
 
@@ -18,12 +20,12 @@
 
 | | |
 |:---|---:|
-| 📖 **Total Repo** | **7** |
-| ⭐ **Star's Count** | **1** |
-| 🍴 **Fork's Count** | **1** |
-| 🔄 **Contributions** | **28** |
-| ❗ **Total Issues** | **0** |
-| ✅ **Closed Issues** | **0** |
+| 📖 **Total Repo:** | **7** |
+| ⭐ **Star's Count:** | **1** |
+| 🍴 **Fork's Count:** | **1** |
+| 🔄 **Contributions:** | **28** |
+| ❗ **Total Issues:** | **0** |
+| ✔ **Closed Issues:** | **0** |
 
 </td>
 </tr>
