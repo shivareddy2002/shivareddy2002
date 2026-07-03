@@ -1,3 +1,13 @@
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=tokyonight)
+
+---
+
 <!-- Header -->
 <p align="center">
   <img 
