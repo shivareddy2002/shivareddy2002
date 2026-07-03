@@ -10,9 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&width=900&lines=💼+Data+Engineering+Intern+@+Boolean+Data+Systems;📊+Transforming+Data+into+Insights+|+Data+Science+Enthusiast;👨‍💻+Python+•+SQL+•+ML+•+DL+•+Power+BI;🚀+Open+to+Jobs+and+Internships!" />
 </h3>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivareddy2002&theme=transparent" width="900"/>
-</p>
 ---
 
 ## 👋 Hi, I'm Lomada Siva Gangi Reddy   [ 🌐 [Visit My Portfolio](https://lsgr-portfolio-pulse.vercel.app/) ]
@@ -31,6 +28,12 @@
 - **Tools :**  • `Excel` • `MySQL` • `Power BI`  • `Jupyter Notebook` • `VS Code` 
 - **Libraries & Frameworks :** • `Numpy` • `Pandas` • `Matplotlib` • `Seaborn` • `TensorFlow`  • `Scikit-learn`  • `NLTK`
 - **Soft Skills :** • `Teamwork` • `Problem Solving` • `Communication` • `Quick Learning` • `Time Management`  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivareddy2002&theme=transparent" width="900"/>
+</p>
 
 ---
 
