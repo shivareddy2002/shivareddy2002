@@ -1,12 +1,33 @@
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivareddy2002&theme=github_dark" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=shivareddy2002&show_icons=true&theme=tokyonight)
+<table align="center">
+<tr>
+<td align="center" width="35%">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivareddy2002&theme=tokyonight)
+<img src="https://avatars.githubusercontent.com/shivareddy2002?s=200" width="140px" style="border-radius:50%;">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivareddy2002&layout=compact&theme=tokyonight)
+# **Lomada Siva Gangi Reddy**
 
----
+👥 **Followers:** ![](https://img.shields.io/github/followers/shivareddy2002?style=social)
+
+</td>
+
+<td width="65%">
+
+| | |
+|:---|---:|
+| 📖 **Total Repo** | **7** |
+| ⭐ **Star's Count** | **1** |
+| 🍴 **Fork's Count** | **1** |
+| 🔄 **Contributions** | **28** |
+| ❗ **Total Issues** | **0** |
+| ✅ **Closed Issues** | **0** |
+
+</td>
+</tr>
+</table>
 
 <!-- Header -->
 <p align="center">
