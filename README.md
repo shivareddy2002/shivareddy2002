@@ -1,6 +1,4 @@
 <!-- Header -->
-
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=LOMADA%20SIVA%20GANGI%20REDDY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" 
